@@ -14,5 +14,3 @@ According to this data, t-value is 0.998, which lie is in one tail test between 
 According to given data in file p-value is greater than alpha.
 So, it effected insignificantly and have homocedasticity at 10% level of significance.
 If p-value is less then alpha. Then it effected significantly and have heteroscedasticity at 10% level of significance.
-
-![spearman t table](https://github.com/UMMY87/Spearman-s-Rank-Correlation-Test/assets/117314436/f8fc6bfa-c84e-4378-ab3f-d19069f21705)
