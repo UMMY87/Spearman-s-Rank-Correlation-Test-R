@@ -2,8 +2,9 @@
 Spearman's Rank Correlation Test can also be employed to identify heteroscedasticity. In order to conduct this test utilizing the R software package.
 The Spearman's Rank Correlation Test serves the purpose of detecting heteroscedasticity within the data.
 A significant test is conducted to identify the presence of heteroscedasticity, where heteroscedasticity is confirmed if the p-value is lower than the predetermined significance level, alpha.
+To call this function
 ```R
-To call this function write "RankCorrelationTest(y,x)"
+"RankCorrelationTest(y,x)"
 Give the value of "y" and "x"
 Like:
 y<-c(12.4, 14.4, 14.6, 16.0, 11.3, 10.0, 16.2, 10.4, 13.1, 11.3)
